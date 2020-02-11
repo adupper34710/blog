@@ -18,7 +18,7 @@
         <h2>First post</h2>
         <h6>Posted on some date in some year</h6>
         
-        <p>Something excited happened.</p>
+        <p>Something exciting happened.</p>
         
         
     </body>
